@@ -5,19 +5,12 @@
 
 - 🔭 Aku pernah bekerja di Universitas International Semen Indonesia **Sistem Akreditasi, Sistem Omawa, Sistem Feeder Mahasiswa**
 
-- 🌱 Saat ini aku sedang belajar React JS👍 **React JS, Javascript, Hapi JS**
+- 🌱 React JS and Vue JS 👍
 
-- 👯 Aku sedang mencari patner untuk membuat sebuah Tim kecil. **Ayotaku**
-
-- 💬 Tanyakan padaku dengan Topik **React, PHP, Laravel, CI, ES6 Javascript**
-
-- 📫 Kontak/Email? Oke... **yunianrezky031@gmail.com**
+- 👯 Freelance Web and Bot Discord!
 
 - ⚡ Fun fact **Aku tidak ada di dalam kubu JS ataupun PHP lmao**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yunian-rezky-8232a31a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunian rezky" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13314396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13314396" height="30" width="40" /></a>
 <a href="https://instagram.com/yunianrezky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunianrezky" height="30" width="40" /></a>
 </p>
@@ -28,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezu0&show_icons=true&locale=en&layout=compact" alt="rezu0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezu0&show_icons=true&locale=en" alt="rezu0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezu0&" alt="rezu0" /></p>
