@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yunian Rezky, call me Rezky</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezu0&label=Profile%20views&color=0e75b6&style=flat" alt="rezu0" /> </p>
-<h3 align="left">Aku adalah seorang Junior Web Developer dari indonesia, hanya manusia biasa yang sering melakukan kesalahan😊 Still learning, be Humble </h3>
-
-- 🔭 Ex-Web Developer at Universitas International Semen Indonesia **Sistem Akreditasi, Sistem Omawa, Sistem Feeder Mahasiswa**
-- 🔍 Project Freelance? Contact me!
-
 ```sh
 #Ubuntu 22
 
